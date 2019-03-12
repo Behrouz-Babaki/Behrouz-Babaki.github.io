@@ -42,15 +42,6 @@ My main areas of interest are combinatorial optimization and probabilistic reaso
     </item>
     
     <item>
-      <title>Skills</title>
-      <link>https://Behrouz-Babaki.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://Behrouz-Babaki.github.io/home/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://Behrouz-Babaki.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
@@ -60,11 +51,30 @@ My main areas of interest are combinatorial optimization and probabilistic reaso
     </item>
     
     <item>
+      <title>Teaching</title>
+      <link>https://Behrouz-Babaki.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://Behrouz-Babaki.github.io/home/teaching/</guid>
+      <description>I was one of the teaching assistants in the following courses:
+ Fundamentals of Artificial Intelligence (2016-17 and 2015-16) Data Mining (2015-16) Uncertainty in Artificial Intelligence (2012-13 and 2015-16)  </description>
+    </item>
+    
+    <item>
       <title>Selected Talks</title>
       <link>https://Behrouz-Babaki.github.io/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://Behrouz-Babaki.github.io/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://Behrouz-Babaki.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://Behrouz-Babaki.github.io/home/skills/</guid>
       <description></description>
     </item>
     
@@ -93,16 +103,6 @@ My main areas of interest are combinatorial optimization and probabilistic reaso
       
       <guid>https://Behrouz-Babaki.github.io/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://Behrouz-Babaki.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://Behrouz-Babaki.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>

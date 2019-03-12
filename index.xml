@@ -10,5 +10,77 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Lifted Hinge-Loss Markov Random Fields</title>
+      <link>https://Behrouz-Babaki.github.io/publication/aaai19/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Behrouz-Babaki.github.io/publication/aaai19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fairness in Relational Domains</title>
+      <link>https://Behrouz-Babaki.github.io/publication/aies18/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://Behrouz-Babaki.github.io/publication/aies18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Branch-and-Cut Algorithm for Constrained Graph Clustering</title>
+      <link>https://Behrouz-Babaki.github.io/publication/dsmo17/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://Behrouz-Babaki.github.io/publication/dsmo17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction-based optimization for online People and Parcels share a ride taxis</title>
+      <link>https://Behrouz-Babaki.github.io/publication/kse17/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://Behrouz-Babaki.github.io/publication/kse17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Stochastic Constraint Optimization and Probabilistic Programming - From Knowledge Compilation to Constraint Solving</title>
+      <link>https://Behrouz-Babaki.github.io/publication/cp17/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://Behrouz-Babaki.github.io/publication/cp17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Constraint Programming with And-Or Branch-and-Bound</title>
+      <link>https://Behrouz-Babaki.github.io/publication/ijcai17/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://Behrouz-Babaki.github.io/publication/ijcai17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraint-Based Querying for Bayesian Network Exploration</title>
+      <link>https://Behrouz-Babaki.github.io/publication/cp4bn/</link>
+      <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://Behrouz-Babaki.github.io/publication/cp4bn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained Clustering Using Column Generation</title>
+      <link>https://Behrouz-Babaki.github.io/publication/cccg/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://Behrouz-Babaki.github.io/publication/cccg/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
